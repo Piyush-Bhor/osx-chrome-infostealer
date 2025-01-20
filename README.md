@@ -32,7 +32,7 @@ OSX Chrome Infostealer is a tool for decrypting and exporting Chrome passwords a
 - Gracefully terminates running Chrome processes before accessing its files.
 - The malware is undetected by VirusTotal. `SHA-256 Hash: 275d13e8dbf5613fb2591d790ed2558d657deca473c08e31566aa5ac2f3667eb`
 
-![Virus Total Scan Result](assets/VT_scan.png "Virus Total Scan Result")
+![Virus Total Scan Result](VT_scan.png "Virus Total Scan Result")
 
 ### Server
 
